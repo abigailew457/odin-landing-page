@@ -1,0 +1,60 @@
+div {
+    display: flex;
+}
+.header,
+.info-section,
+.footer {
+    background-color: #1f2937;
+}
+.main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.secondary,
+.links {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.photo {
+    background-color: #7c818a;
+    color: #e5e7eb;
+}
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+.picture-section,
+.quote-section, {
+    color: #1f2937;
+}
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+}
+.subtext {
+    font-size: 18px;
+}
+.quote-section {
+    background-color: #e5e7eb;
+}
+.speech {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+.credit {
+    font-weight: bold;
+    font-size: 24px;
+}
+.sign-up-section {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+.footer {
+    color: #F9FAF8;
+}
