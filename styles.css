@@ -28,6 +28,8 @@ body, div {
 .photo {
     background-color: #7c818a;
     color: #e5e7eb;
+    align-items: center;
+    justify-content: center;
 }
 button {
     background-color: #3882F6;
@@ -62,4 +64,15 @@ button {
 }
 .footer {
     color: #F9FAF8;
+}
+.header {
+    flex-direction: row;
+    justify-content: space-around;
+}
+.links {
+    flex-direction: row;
+}
+.hero {
+    justify-content: center;
+    flex-direction: row;
 }
