@@ -99,3 +99,7 @@ a {
     justify-content: center;
     gap: 52px;
 }
+.info {
+    max-width: 160px;
+    text-align: center;
+}
