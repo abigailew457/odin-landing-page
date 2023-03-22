@@ -88,3 +88,9 @@ a {
     align-items: start;
     width: 450px;
 }
+.picture-section {
+    align-items: center;
+}
+.title {
+    padding: 24px;
+}
