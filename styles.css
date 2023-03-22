@@ -81,7 +81,8 @@ button {
     justify-content: center;
     flex-direction: row;
     gap: 36px;
-    padding: 60px;
+    padding-bottom: 90px;
+    padding-top: 60px;
 }
 a {
     padding: 12px;
