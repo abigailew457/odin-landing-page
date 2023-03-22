@@ -52,6 +52,8 @@ button {
 }
 .quote-section {
     background-color: #e5e7eb;
+    align-items: center;
+    padding: 80px;
 }
 .speech {
     font-size: 36px;
