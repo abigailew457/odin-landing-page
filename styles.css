@@ -73,6 +73,8 @@ button {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    width: 900px;
+    border-radius: 5px;
 }
 .footer {
     color: #F9FAF8;
