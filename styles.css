@@ -70,6 +70,9 @@ button {
 .sign-up-section {
     background-color: #3882F6;
     color: #F9FAF8;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
 .footer {
     color: #F9FAF8;
