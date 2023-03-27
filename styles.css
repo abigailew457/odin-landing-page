@@ -81,6 +81,8 @@ button {
 }
 .footer {
     color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
 }
 .header {
     flex-direction: row;
