@@ -36,6 +36,7 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     border: 0;
+    padding: 5px 20px;
 }
 .picture-section,
 .quote-section {
