@@ -76,6 +76,8 @@ button {
     width: 900px;
     border-radius: 5px;
     padding: 40px 12px;
+    align-self: center;
+    margin: 60px;
 }
 .footer {
     color: #F9FAF8;
