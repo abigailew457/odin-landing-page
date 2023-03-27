@@ -83,6 +83,7 @@ button {
     color: #F9FAF8;
     justify-content: center;
     align-items: center;
+    padding: 30px;
 }
 .header {
     flex-direction: row;
