@@ -135,4 +135,5 @@ p {
     height: 25px;
     width: 100px;
     justify-content: center;
+    border-radius: 5px;
 }
